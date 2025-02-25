@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
   Software engineering is abranch of computerscience dealing with developing,testing and maintaining of software applications.
-    **iportances of software technology are:**
+    **importances of software technology are:**
         1. optimise company operations
         2. streamline company processes
         3. gives a competitive edge to a company
